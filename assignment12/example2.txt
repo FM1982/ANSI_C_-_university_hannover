@@ -1,0 +1,15 @@
+The 10 aim of the design 201 recipes presented below is to 123
+help you to -77 78 get from a textual problem statement to a
+well organized and reliable solution; the design recipes are
+strongly inspired by 987 876 6435353 how to design programs,
+second edition. The recipes presented below are 444 available
+0 "for" different forms of data – "from" simple "atomic" data,
+like integer numbers, to arbitrary length lists. The examples
+may: 1 2 3 44 seem simple and you may be tempted to solve them
+without following each of the steps presented below. We still
+urge you to 314 follow these steps to learn and automate them
+and to be prepared to 27 289 -1234 97531 solve more
+complicated programming problems later on? Each step produces
+a well defined intermediate product and makes it less likely
+that you stare at a blank screen, not knowing how to start the
+solution... -3 x
